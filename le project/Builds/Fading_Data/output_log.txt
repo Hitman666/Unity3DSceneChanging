@@ -1,0 +1,24 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730M     (ID=0x1290)
+    Vendor:   NVIDIA
+    VRAM:     955 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\_GIT\Unity\Unity3DSceneChanging\le project\Builds\Fading_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\_GIT\Unity\Unity3DSceneChanging\le project\Builds\Fading_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\_GIT\Unity\Unity3DSceneChanging\le project\Builds\Fading_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\_GIT\Unity\Unity3DSceneChanging\le project\Builds\Fading_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\_GIT\Unity\Unity3DSceneChanging\le project\Builds\Fading_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\_GIT\Unity\Unity3DSceneChanging\le project\Builds\Fading_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.082 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\_GIT\Unity\Unity3DSceneChanging\le project\Builds\Fading_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\_GIT\Unity\Unity3DSceneChanging\le project\Builds\Fading_Data\Managed\Boo.Lang.dll (this message is harmless)
+clicked 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
